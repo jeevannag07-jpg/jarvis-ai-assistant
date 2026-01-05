@@ -1,4 +1,4 @@
-# JARVIS – Personal AI Assistant 
+# JAVIS (Jeevans Architectural Vital Intelligence System ure– Personal AI Assistant 
 
 A long-term personal learning project to build a real-life,
 emotion-aware AI assistant inspired by JARVIS.
