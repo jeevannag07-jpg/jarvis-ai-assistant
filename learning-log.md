@@ -1,4 +1,4 @@
-## Learning Log
+- Designed Year 1 system architecture## Learning Log
 
 ### Day 1
 - Created GitHub repository
