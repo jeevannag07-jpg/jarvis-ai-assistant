@@ -6,3 +6,4 @@
 - Started JARVIS Year 1 foundation
 
 Feeling motivated and consistent.
+- Started Python foundation learning
